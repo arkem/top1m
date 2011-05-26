@@ -1,0 +1,3 @@
+A squid redirector that prevents clients from visiting sites outside of the Alexa top 1 million sites.
+
+See http://memeover.arkem.org/2009/12/best-of-web.html for more information
